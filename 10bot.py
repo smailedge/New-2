@@ -10,67 +10,67 @@ from gtts import gTTS
 
 cl = LINETCR.LINE() #Luffy
 #cl.login(qr=True)
-cl.login(token="EnOhPKGkwimXJ8iVuIv5.nqZhqiZgZilGvU4eyth5jq.iV+ciJ+WAZnNjnVY0O8nKYgN1+R6664CfqfnUEnaGW8=")
+cl.login(token="ENB5GnSlVPfo9yxePnEc.za3+ZjFkdwx4tkMsS55p3a.pNBX3G5BOskb1p7uZ6ccnLX4v02ffs6SJVOtZpwo7Js=")
 cl.loginResult()
 
 ki = LINETCR.LINE() #Zorro
 #ki.login(qr=True)
-ki.login(token="EnnlBHTi4QbQKi1Xqla3.TrVjFf5pyd8D+ZxPusvq0W.HDtFuFulskxycJocqYbAK9krFT5ixRMAnrjU3XcDogI=")
+ki.login(token="EN7yezBSHf6rbeWX2DQb.O3gM/8W+lhDUWsy/dxrCUW./KqENZGdbS6jCXL9/csYrDiWx+atsUI9TNtDYNA42T8=")
 ki.loginResult()
 
 kk = LINETCR.LINE() #Sanji
 #kk.login(qr=True)
-kk.login(token="EnlRYqL4DlWKIr9dfIU2.WUI0jVzzeewupQ5tboz8mG.K5G366kQX+YWWdGRGXAwMU2rHcF2hhu0Lm3JmSNUPKI=")
+kk.login(token="ENmK4EkDyqBeUyPVF1Y1.6dg+OADJcZqj0Eao0Y02iq.kAii+yvI/OT0HP5+SE7Yboww5TJh0jjyTdpRw2nIyI8=")
 kk.loginResult()
 
 kc = LINETCR.LINE() #Ussop
 #kc.login(qr=True)
-kc.login(token="En8i8ZAR1hsJLRcqWJB7.7aNdCEtbMUaAO9Hiv0qoTW.WOSasGBkESFnM7P/TCYn6cTcF2U7Lgr396M1Yt/z8qo=")
+kc.login(token="EN8afrJ1bAco3yx1mJ02.ooURt8DAWMpy+5vsoJ0JqG.lAHw9ZL6nYKFlA0o+DWMJBahIvKLG9MYYLY8+dv9h/g=")
 kc.loginResult()
 
 ks = LINETCR.LINE() #Chooper
 #ks.login(qr=True)
-ks.login(token="EnrNejwvrgZlyCoYjSdc.SJRuNecAXNC8sHurfor2ha.jD7wclOBbItb9PXfzVA4BhBq5AkfkfdpkQBVbAigijw=")
+ks.login(token="EN2H3QkUsShdDYCz5mOb.prRZLwJqPCmMfE5IXSxJAW.8MD1eUxBFdPTQF6IlMYOdOxQYBfz7e51y4Z5byxRRR0=")
 ks.loginResult()
 
 k1 = LINETCR.LINE() #nami
 #k1.login(qr=True)
-k1.login(token="EnXJYMPRuZKWp81hPsk2.buJLD7JrrngDnMf5qDfqyG.60g8dV2Qm2DALXdsVgdjfN7PLoRXoNEm9dLRphHFgjM=")
+k1.login(token="ENYo3GuxdzKqrEyMWlac.3eFmkgPriPKsRz7omolaVa.CjYzVK6jVKLI7OslFoxbVSbm9L7Soh/mZtWeUC8Emfs=")
 k1.loginResult()
 
 k2 = LINETCR.LINE() #nico robin
 #k2.login(qr=True)
-k2.login(token="EnGPRLTejNE6mFHDQ2Df.9eQsWmyR4F9AFNPZDyQTtW.N7zwS68J1xmBOk4Z9Fcj2iE+PchLC8MpKvb0TuiKWKU=")
+k2.login(token="END2YaEUCtQ7Lp02c1S0.TQuvGUe+OXXocehvIoIIKa.jPdpXVwhy0SduXaEchNc7z+leeXcatvTXYl+1hy34WE=")
 k2.loginResult()
 
 k3 = LINETCR.LINE() #
 #k3.login(qr=True)
-k3.login(token="En4fEPZ8IBZ2nUUfOpLd.6WqeC+1pukOllkvQ7Oglhq.m7o3gNWWMCJEkoLhAXgymM1CMP6bYkGyBBvplepM+YI=")
+k3.login(token="ENgSKEEFgfrmdnFGQbQa.DXFKn4YysjJz53/2ow+nkG.rdT6PiLioXS9sbX0RwSgOWV1xic36CJfhWDFysU5XNg=")
 k3.loginResult()
 
 k4 = LINETCR.LINE() #
 #k4.login(qr=True)
-k4.login(token="En2h1tGCsqKy5ZM2j2A2.EX9POTYx+gKdjKz7DQlnSG./5hJc91p8FXQkExd5oGOeB87cra3yuQhmJmTMnhz7oI=")
+k4.login(token="ENEyxoOBd5NcSVZHPfJc.89ygu6799+QVSkkKJ8FV+a.WpjE+Bgn3covmnYUVSFOPOh4jKwjSzOrC8hqIcLt4aE=")
 k4.loginResult()
 
 k5 = LINETCR.LINE() #
 #k5.login(qr=True)
-k5.login(token="Ennz3JizkJJFMKAIPHV2.ZNOnP4uou95euS+Ku1ce4G.V/kc9Cm3euyvm7F3MLq7WLvFzmSoTIJKK3Nohopw9zQ=")
+k5.login(token="ENChfNjjbHdI2L0h2nEe.DPb0VWc+lxIi+i5T4WVCBG.ExWDQFfT+AmSUv+hsJ1xGzk9uHxiga9D0tJpYdKviBo=")
 k5.loginResult()
 
 satpam = LINETCR.LINE() # 
-satpam.login(token="Ennz3JizkJJFMKAIPHV2.ZNOnP4uou95euS+Ku1ce4G.V/kc9Cm3euyvm7F3MLq7WLvFzmSoTIJKK3Nohopw9zQ=") #satpam 
+satpam.login(token="ENED2zeV1FiQ0augucc8.+Es3tzQcdLmg7lYXW5GFIa.o2hzijbEnTrLNeA0nAbIKkMFyfHGWXt4Q/ZH41d1xGg=") #satpam 
 #satpam.login(qr=True)
 satpam.loginResult()
 
-print "login success bos"
+print ("login success bos")
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""TAEM BONDS KILLS✰
-Owner : Babang adhi
+helpMessage ="""✰ 𝐹𝒶𝓃𝓉𝒶𝓈𝓎𝒮𝓉𝓊𝒹𝒾𝑜 ɮօt ✰
+製作者：幻想工作室
 -----------------------
--=♦·Menu For Public·♦=-
+-=♦·自助選單·♦=-
 [•]Help
 [•]Key
 [•]Mimin/Min
@@ -111,13 +111,13 @@ Owner : Babang adhi
 [•]T-thai
 [•]T-id
 -------=====---------
-✰ TEAM BONDS KILLS✰
+✰ 𝐹𝒶𝓃𝓉𝒶𝓈𝓎𝒮𝓉𝓊𝒹𝒾𝑜 ɮօt✰
 -------=====---------
 """
-Keyowner =""" ✰ TEAM BONDS KILLS ✰
-Owner : ✰BABANG ADHI=-
+Keyowner =""" ✰ 𝐹𝒶𝓃𝓉𝒶𝓈𝓎𝒮𝓉𝓊𝒹𝒾𝑜 ɮօt✰
+Owner : 幻想工作室
 -----=====------------
--=♦·Menu For Owner·=-
+-=♦·製作者專用選單·=-
 [•]Kick ...
 [•]Invite (by mid)
 [•]Undang (Invite user by kontak)
@@ -164,11 +164,11 @@ Owner : ✰BABANG ADHI=-
 [•]Speedbot
 [•]Speed
 -------=====-------
-✰ TEAM BONDS KILLS ✰
+✰ ✰ 𝐹𝒶𝓃𝓉𝒶𝓈𝓎𝒮𝓉𝓊𝒹𝒾𝑜 ɮօt ✰ ✰
 -----====----------
 """
-Setgroup =""" -=Team Bonds Killa=-
--==♦·Menu For Admin·♦==-
+Setgroup =""" -=✰ 𝐹𝒶𝓃𝓉𝒶𝓈𝓎𝒮𝓉𝓊𝒹𝒾𝑜 ɮօt ✰=-
+-==♦·管理員專用選單·♦==-
 ------=====---------
 [•]Cancel
 [•]Buka qr/Open qr
@@ -252,34 +252,34 @@ Setgroup =""" -=Team Bonds Killa=-
 [•]Cleanse
 [•]Sikat
 [•]Greet
--==Hanya Untuk Owner and Admin==-
-Creator by Babang Adhi https://line.me/ti/p/boy29putra
+-==✰ 𝐹𝒶𝓃𝓉𝒶𝓈𝓎𝒮𝓉𝓊𝒹𝒾𝑜 ɮօt ✰==-
+製作者By. https://line.me/ti/p/abc8806191
 ----=====-----------
 """
 KAC=[cl,ki,kk,kc,ks,k1,k2,k3,k4,k5]
 DEF=[ki,kk,kc,ks,k1,k2,k3,k4,k5]
 mid = cl.getProfile().mid
-["u350cc7408cc6cc82e056ee046131f925"]
+["u640dffcc97ca0d65f84ca992b39e4fdc"]
 Amid = ki.getProfile().mid
-["ub51bc97c5e4f603f1dff35e9512550d3"]
+["ua371a6fbcc3f2c776ec1263e0d745cbb"]
 Bmid = kk.getProfile().mid
-["uc2e8b426f6591045943eae5304e67c32"]
+["ue831bfa1a7630b3409d1e00ed32d3621"]
 Cmid = kc.getProfile().mid
-["uec09c371e4c19ae01aa3d84857440eb7"]
+["u38ebab4fc75ac263d8ff95523a3d2342"]
 Dmid = ks.getProfile().mid
-["ub23ad49c409ac6773c4a151114e4761c"]
+["u3d1af39568d0a5c32615ee62c6c5e36b"]
 Emid = k1.getProfile().mid
-["u0548e577b8d144d19d36617941d15062"]
+["udc47cc286a51229912ad9ece30e2c0bc"]
 Fmid = k2.getProfile().mid
-["uf44a92c0c62be1ff5a7e7a73758aad4f"]
+["ub6a51582e13fa31c4e0841d588e8a290"]
 Gmid = k3.getProfile().mid
-["ueb040473fd4f50aa0b2ca56aee818b1d"]
+["u7717e4378c984898d9e77fb6396fcd2a"]
 Hmid = k4.getProfile().mid
-["u7b1f69a2dc97fc690326467b76a2cdb2"]
+["uf3d60653aefdf7faafb0a2a48fc7effc"]
 Imid = k5.getProfile().mid
-["uce7a0da7850e53de4452cfe4535084e2"]
+["u769074bf00bf2d7888fc8e6de30bdc6e"]
 Smid = satpam.getProfile().mid
-["uce7a0da7850e53de4452cfe4535084e2"]
+["ufde4b74d9a820e5306ecbcb1c3981f88"]
 
 protectname = []
 protecturl = []
@@ -289,10 +289,10 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid]
-induk=["u350cc7408cc6cc82e056ee046131f925"]
-Creator=["u350cc7408cc6cc82e056ee046131f925","uce7a0da7850e53de4452cfe4535084e2"]
-admin=["u350cc7408cc6cc82e056ee046131f925"]
-owner=["u350cc7408cc6cc82e056ee046131f925","uce7a0da7850e53de4452cfe4535084e2"]
+induk=["ub6f9d53713c5869f0d78e71febe13837"]
+Creator=["ub6f9d53713c5869f0d78e71febe13837"]
+admin=["ub6f9d53713c5869f0d78e71febe13837"]
+owner=["ub6f9d53713c5869f0d78e71febe13837"]
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -480,11 +480,11 @@ def mention(to, nama):
     msg.to = to
     msg.text = "\xe2\x95\x94\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\n"+bb+"\xe2\x95\x9a\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90"
     msg.contentMetadata ={'MENTION':'{"MENTIONEES":['+aa+']}','EMTVER':'4'}
-    print "[Command] Tag All"
+    print ("[Command] Tag All")
     try:
        cl.sendMessage(msg)
     except Exception as error:
-       print error
+       print (error)
 
 def mention2(to, nama):
     aa = ""
@@ -503,11 +503,11 @@ def mention2(to, nama):
     msg.to = to
     msg.text = "\xe2\x95\x94\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\n"+bb+"\xe2\x95\x9a\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90"
     msg.contentMetadata ={'MENTION':'{"MENTIONEES":['+aa+']}','EMTVER':'4'}
-    print "[Command] Tag All"
+    print ("[Command] Tag All")
     try:
        cl.sendMessage(msg)
     except Exception as error:
-       print error
+       print (error)
 
 def sendMessage(self, messageObject):
         return self.Talk.client.sendMessage(0,messageObject)
@@ -553,7 +553,7 @@ def sendImageWithURL(self, to_, url):
       try:
          self.sendImage(to_, path)
       except Exception as e:
-         raise e
+         raise (e)
  
 def post_content(self, urls, data=None, files=None):
         return self._session.post(urls, headers=self._headers, data=data, files=files)       
@@ -599,7 +599,7 @@ def RECEIVE_MESSAGE(op):
     except KeyboardInterrupt:
 				sys.exit(0)
     except Exception as error:
-        print error
+        print (error)
         print ("\n\nRECEIVE_MESSAGE\n\n")
         return
 
